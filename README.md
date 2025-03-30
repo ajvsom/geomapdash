@@ -48,7 +48,7 @@ The application uses sample data with the following structure:
    python app.py
    ```
 
-5. Open your web browser and navigate to `http://127.0.0.1:8050/`
+5. Open your web browser and navigate to the link provided in the output - it should look something like this: `http://127.0.0.1:8050/`
 
 ## Usage
 
